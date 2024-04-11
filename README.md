@@ -1,59 +1,64 @@
-## Interfaz Gráfica para el Proyecto de Transformación de Gestión de Consultas Académicas
+## Graphical Interface for Academic Query Management Transformation Project
 
-¡Bienvenido a la interfaz gráfica de nuestro emocionante proyecto de transformación de gestión de consultas académicas mediante la integración de LLM y la API de OpenAI en un Asistente Académico! En esta interfaz, hemos desarrollado una solución que utiliza tecnologías avanzadas de procesamiento de lenguaje natural para mejorar la búsqueda y gestión de información académica.
+Welcome to the graphical interface for our exciting academic query management transformation project by integrating LLM and the OpenAI API into an Academic Assistant! In this interface, we have developed a solution that uses advanced natural language processing technologies to enhance academic information search and management.
 
-### Características Destacadas de la Interfaz
-- **Asistente Académico Potenciado por AI:** Nuestra interfaz incluye un asistente académico impulsado por inteligencia artificial que ayuda a los usuarios a encontrar de manera eficiente la información académica relevante. Esto simplifica el proceso de búsqueda y gestión de documentos académicos.
-- **Integración de LLM y OpenAI API:** Hemos integrado el modelo de lenguaje de largo plazo (LLM) junto con la API de OpenAI para mejorar la capacidad de comprensión y respuesta del asistente académico. Esto permite respuestas más precisas y contextualmente relevantes a las consultas de los usuarios.
-- **Gestión Eficiente de Consultas:** La interfaz ofrece herramientas intuitivas para gestionar consultas académicas, lo que permite a los usuarios realizar búsquedas avanzadas, organizar y acceder fácilmente a documentos relevantes.
+### Interface Highlights
+- AI-Powered Academic Assistant:** Our interface includes an AI-powered academic assistant that helps users efficiently find relevant academic information. This simplifies the process of searching and managing academic documents.
+LLM and OpenAI API integration:** We have integrated the Long Term Language Model (LLM) along with the OpenAI API to improve the academic assistant's understanding and responsiveness. This enables more accurate and contextually relevant responses to user queries.
+Efficient Query Management:** The interface provides intuitive tools for managing academic queries, allowing users to perform advanced searches, organize their searches, and easily access relevant documents.
 
-### Instrucciones de Uso de la Interfaz
-1. **Clonar el Repositorio:** Comienza por clonar el repositorio de la interfaz en tu máquina local utilizando el siguiente comando:
-
+### Interface Usage Instructions
+1. **Clone the Repository:** Start by cloning the interface repository on your local machine using the following command:
+2. 
 ```bash
 git clone https://github.com/xr-lab-ucacue/Academic-Assistant.git
 ```
 
-2. **Instalar Dependencias:** Una vez clonado el repositorio, navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias necesarias:
+2. **Install Dependencies:** Once the repository has been cloned, navigate to the project directory and run the following command to install the necessary dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Configurar el Entorno Python:** Asegúrate de tener instalado Python v3.11.4 y pip correctamente configurado en tu sistema. Agrega el path de Python si es necesario.
+3. **Configure the Python Environment:** Make sure you have Python v3.11.4 installed and pip properly configured on your system. Add the Python path if necessary.
 
-4. **Instalar Bibliotecas Específicas:**
-   - Para instalar Streamlit v1.18.1, ejecuta:
+4. **Install Specific Libraries:**
+   - To install Streamlit v1.18.1, execute:
      ```bash
      pip install streamlit==1.18.1
      ```
-   - Para instalar la biblioteca OpenAI, ejecuta:
+   - To install the OpenAI library, run:
      ```bash
      pip install openai
      ```
-   - Si se produce un error relacionado con "altair", instala la versión 4.0 específicamente con el siguiente comando:
+   - If an error related to "altair" occurs, install version 4.0 specifically with the following command:
+   - 
      ```bash
      pip install altair==4.0
      ```
 
-5. **Ejecutar la Aplicación:** Utiliza el siguiente comando para ejecutar la interfaz en tu navegador:
+5. **Run the Application:** Use the following command to run the interface in your browser:
+
 ```bash
 streamlit run app.py
 ```
 
-6. **Acceder a la Interfaz:** Abre tu navegador web y navega a http://localhost:8501 para acceder a la interfaz gráfica. Utiliza el asistente académico para realizar consultas y gestionar información académica de manera eficiente.
+6. **Access the Interface:** Open your web browser and navigate to http://localhost:8501 to access the graphical interface. Use the academic assistant to query and manage academic information efficiently.
 
-## Vista Previa del Proyecto
-### Pantalla de inicio
+
+## Project Preview
+### Home Screen
 ![interfaz vacia](https://github.com/xr-lab-ucacue/Academic-Assistant/assets/73256134/e08d84fe-4a0f-4b82-a2c4-cf3865b4068b)
-En esta vista a los usuarios se les presenta el campo de entrada para las consultas que deseen realizar y un botón para enviar las consultas. La interfaz fue realizada a través del framework Streamlit
+In this view users are presented with the input field for the queries they wish to make and a button to send the queries. The interface was created using the Streamlit framework.
 
-### Visualizacion de respuesta del Asistente
+### Display of the assistant's response
 ![FinalDiagram](https://github.com/xr-lab-ucacue/Academic-Assistant/assets/73256134/2b5e65e4-97ac-4dd6-bf64-22ddd60fb70f)
 
 
-¡Esperamos que esta interfaz simplifique la gestión de consultas académicas y mejore la experiencia de los usuarios al interactuar con documentos académicos! Si tienes alguna pregunta o sugerencia, no dudes en comunicarte con nosotros.
+We hope this interface will simplify the management of academic queries and improve the user experience when interacting with academic documents! If you have any questions or suggestions, please do not hesitate to contact us.
 
-El Equipo de Desarrollo:
+
+Team Developers:
 Pedro Alvarez
+
 Sebastian Quevedo
