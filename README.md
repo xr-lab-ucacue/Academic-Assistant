@@ -1,4 +1,4 @@
-## Graphical Interface for Academic Query Management Transformation Project
+## Backend Services for Academic Query Management Transformation Project
 
 Welcome to the graphical interface for our exciting academic query management transformation project by integrating LLM and the OpenAI API into an Academic Assistant! In this interface, we have developed a solution that uses advanced natural language processing technologies to enhance academic information search and management.
 
@@ -55,10 +55,10 @@ In this view users are presented with the input field for the queries they wish 
 ![FinalDiagram](https://github.com/xr-lab-ucacue/Academic-Assistant/assets/73256134/2b5e65e4-97ac-4dd6-bf64-22ddd60fb70f)
 
 
-We hope this interface will simplify the management of academic queries and improve the user experience when interacting with academic documents! If you have any questions or suggestions, please do not hesitate to contact us.
+This interface will simplify the management of academic queries and improve the user experience when interacting with academic documents! If you have any questions or suggestions, please do not hesitate to contact us.
 
 
 Team Developers:
-Pedro Alvarez
 
+Pedro Alvarez
 Sebastian Quevedo
