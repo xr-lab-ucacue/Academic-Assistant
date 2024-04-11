@@ -43,6 +43,15 @@ streamlit run app.py
 
 6. **Acceder a la Interfaz:** Abre tu navegador web y navega a http://localhost:8501 para acceder a la interfaz gráfica. Utiliza el asistente académico para realizar consultas y gestionar información académica de manera eficiente.
 
+## Vista Previa del Proyecto
+### Pantalla de inicio
+![interfaz vacia](https://github.com/xr-lab-ucacue/Academic-Assistant/assets/73256134/e08d84fe-4a0f-4b82-a2c4-cf3865b4068b)
+En esta vista a los usuarios se les presenta el campo de entrada para las consultas que deseen realizar y un botón para enviar las consultas. La interfaz fue realizada a través del framework Streamlit
+
+### Visualizacion de respuesta del Asistente
+![FinalDiagram](https://github.com/xr-lab-ucacue/Academic-Assistant/assets/73256134/2b5e65e4-97ac-4dd6-bf64-22ddd60fb70f)
+
+
 ¡Esperamos que esta interfaz simplifique la gestión de consultas académicas y mejore la experiencia de los usuarios al interactuar con documentos académicos! Si tienes alguna pregunta o sugerencia, no dudes en comunicarte con nosotros.
 
 El Equipo de Desarrollo:
