@@ -6,7 +6,7 @@ Currently, artificial intelligence (AI) has made impressive progress. One notabl
 
 For a detailed exposition of the project's framework, methodologies, and results, please refer to our comprehensive document available on GitHub. This document provides an in-depth look at the underlying technologies, implementation strategies, and performance evaluations that underscore the success of our project.
 
-To explore further details, consult the [Research paper](docs/Academic_Query_Assistant.pdf).
+To explore further details, consult the [Research paper](/Academic_Query_Assistant.pdf).
 
 ### Interface Highlights
 - AI-Powered Academic Assistant:** Our interface includes an AI-powered academic assistant that helps users efficiently find relevant academic information. This simplifies the process of searching and managing academic documents.
